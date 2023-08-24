@@ -1,0 +1,97 @@
+000 (11067985.097.000) 2023-05-25 17:26:43 Job submitted from host: <128.104.101.92:9618?addrs=128.104.101.92-9618+[2607-f388-107c-501-a236-9fff-fe3c-caa8]-9618&alias=submit2.chtc.wisc.edu&noUDP&sock=schedd_1879732_618e>
+...
+007 (11067985.097.000) 2023-05-25 18:35:54 Shadow exception!
+	Error from slot1_5@e4021.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067985.097.000) 2023-05-25 18:36:23 Shadow exception!
+	Error from slot1_7@e4021.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067985.097.000) 2023-05-25 18:36:37 Shadow exception!
+	Error from slot1_4@e4008.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067985.097.000) 2023-05-25 18:36:49 Shadow exception!
+	Error from slot1_2@e4008.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+040 (11067985.097.000) 2023-05-25 18:41:55 Started transferring input files
+	Transferring to host: <128.105.69.148:9618?addrs=128.105.69.148-9618+[2607-f388-2200-100-1270-fdff-fe56-ceec]-9618&alias=e4025.chtc.wisc.edu&noUDP&sock=slot1_3_3588178_c0b1_5829>
+...
+040 (11067985.097.000) 2023-05-25 18:41:58 Finished transferring input files
+...
+001 (11067985.097.000) 2023-05-25 18:41:59 Job executing on host: <128.105.69.148:9618?addrs=128.105.69.148-9618+[2607-f388-2200-100-1270-fdff-fe56-ceec]-9618&alias=e4025.chtc.wisc.edu&noUDP&sock=startd_3086880_80b8>
+	SlotName: slot1_3@e4025.chtc.wisc.edu
+	CondorScratchDir = "/var/lib/condor/execute/slot1/dir_548042"
+	Cpus = 1
+	Disk = 1268229
+	IoHeavy = 0
+	Memory = 1024
+...
+006 (11067985.097.000) 2023-05-25 18:42:07 Image size of job updated: 384124
+	371  -  MemoryUsage of job (MB)
+	379604  -  ResidentSetSize of job (KB)
+...
+006 (11067985.097.000) 2023-05-25 18:47:08 Image size of job updated: 868944
+	371  -  MemoryUsage of job (MB)
+	379604  -  ResidentSetSize of job (KB)
+...
+006 (11067985.097.000) 2023-05-25 19:07:11 Image size of job updated: 868944
+	382  -  MemoryUsage of job (MB)
+	390596  -  ResidentSetSize of job (KB)
+...
+006 (11067985.097.000) 2023-05-25 19:17:12 Image size of job updated: 868944
+	391  -  MemoryUsage of job (MB)
+	399436  -  ResidentSetSize of job (KB)
+...
+006 (11067985.097.000) 2023-05-25 19:22:12 Image size of job updated: 868944
+	397  -  MemoryUsage of job (MB)
+	406000  -  ResidentSetSize of job (KB)
+...
+006 (11067985.097.000) 2023-05-25 19:27:13 Image size of job updated: 868944
+	407  -  MemoryUsage of job (MB)
+	416148  -  ResidentSetSize of job (KB)
+...
+006 (11067985.097.000) 2023-05-25 19:42:14 Image size of job updated: 868944
+	435  -  MemoryUsage of job (MB)
+	444880  -  ResidentSetSize of job (KB)
+...
+006 (11067985.097.000) 2023-05-25 19:57:17 Image size of job updated: 868944
+	440  -  MemoryUsage of job (MB)
+	450196  -  ResidentSetSize of job (KB)
+...
+006 (11067985.097.000) 2023-05-25 20:47:24 Image size of job updated: 868944
+	448  -  MemoryUsage of job (MB)
+	458440  -  ResidentSetSize of job (KB)
+...
+006 (11067985.097.000) 2023-05-26 10:53:57 Image size of job updated: 868944
+	469  -  MemoryUsage of job (MB)
+	479268  -  ResidentSetSize of job (KB)
+...
+040 (11067985.097.000) 2023-05-26 12:01:31 Started transferring output files
+...
+040 (11067985.097.000) 2023-05-26 12:01:31 Finished transferring output files
+...
+005 (11067985.097.000) 2023-05-26 12:01:31 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:06, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:06, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	21245  -  Run Bytes Sent By Job
+	32917228  -  Run Bytes Received By Job
+	21245  -  Total Bytes Sent By Job
+	32917228  -  Total Bytes Received By Job
+	Partitionable Resources :     Usage  Request Allocated 
+	   Cpus                 :      0.99        1         1 
+	   Disk (KB)            : 290307      524288   1268229 
+	   IoHeavy              :                            0 
+	   Memory (MB)          :    469        1024      1024 
+
+	Job terminated of its own accord at 2023-05-26T17:01:31Z with exit-code 0.
+...

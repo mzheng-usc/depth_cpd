@@ -1,0 +1,197 @@
+000 (11067984.099.000) 2023-05-25 17:25:54 Job submitted from host: <128.104.101.92:9618?addrs=128.104.101.92-9618+[2607-f388-107c-501-a236-9fff-fe3c-caa8]-9618&alias=submit2.chtc.wisc.edu&noUDP&sock=schedd_1879732_618e>
+...
+007 (11067984.099.000) 2023-05-25 18:16:13 Shadow exception!
+	Error from slot1_1@e4021.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:16:36 Shadow exception!
+	Error from slot1_5@e4021.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:17:05 Shadow exception!
+	Error from slot1_4@e4021.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:17:33 Shadow exception!
+	Error from slot1_1@e4021.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:18:34 Shadow exception!
+	Error from slot1_6@e4021.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:19:01 Shadow exception!
+	Error from slot1_3@e4021.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:20:36 Shadow exception!
+	Error from slot1_4@e4021.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:21:04 Shadow exception!
+	Error from slot1_7@e4021.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:22:44 Shadow exception!
+	Error from slot1_2@e4021.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:23:56 Shadow exception!
+	Error from slot1_1@e4021.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:24:31 Shadow exception!
+	Error from slot1_4@e4021.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:29:11 Shadow exception!
+	Error from slot1_5@e4008.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:29:59 Shadow exception!
+	Error from slot1_4@e4008.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:30:33 Shadow exception!
+	Error from slot1_7@e4008.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:30:53 Shadow exception!
+	Error from slot1_7@e4008.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:31:43 Shadow exception!
+	Error from slot1_6@e4008.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:32:07 Shadow exception!
+	Error from slot1_5@e4008.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:32:48 Shadow exception!
+	Error from slot1_4@e4008.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:33:18 Shadow exception!
+	Error from slot1_6@e4008.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:33:41 Shadow exception!
+	Error from slot1_5@e4008.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:33:59 Shadow exception!
+	Error from slot1_2@e4008.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:34:21 Shadow exception!
+	Error from slot1_2@e4021.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:35:01 Shadow exception!
+	Error from slot1_7@e4021.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (11067984.099.000) 2023-05-25 18:35:17 Shadow exception!
+	Error from slot1_7@e4021.chtc.wisc.edu: Assertion ERROR on (lvm_setup_successful)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+040 (11067984.099.000) 2023-05-25 18:35:45 Started transferring input files
+	Transferring to host: <128.105.69.184:9618?addrs=128.105.69.184-9618+[2607-f388-2200-100-1270-fdff-fe56-bbfc]-9618&alias=e4036.chtc.wisc.edu&noUDP&sock=slot1_107_2355761_7c8d_5901>
+...
+040 (11067984.099.000) 2023-05-25 18:35:48 Finished transferring input files
+...
+001 (11067984.099.000) 2023-05-25 18:36:12 Job executing on host: <128.105.69.184:9618?addrs=128.105.69.184-9618+[2607-f388-2200-100-1270-fdff-fe56-bbfc]-9618&alias=e4036.chtc.wisc.edu&noUDP&sock=startd_19307_9318>
+	SlotName: slot1_107@e4036.chtc.wisc.edu
+	CondorScratchDir = "/var/lib/condor/execute/slot1/dir_167995"
+	Cpus = 1
+	Disk = 1268229
+	IoHeavy = 0
+	Memory = 2048
+...
+006 (11067984.099.000) 2023-05-25 18:36:20 Image size of job updated: 383432
+	372  -  MemoryUsage of job (MB)
+	380276  -  ResidentSetSize of job (KB)
+...
+006 (11067984.099.000) 2023-05-25 18:41:20 Image size of job updated: 868864
+	372  -  MemoryUsage of job (MB)
+	380276  -  ResidentSetSize of job (KB)
+...
+006 (11067984.099.000) 2023-05-25 19:01:24 Image size of job updated: 868864
+	386  -  MemoryUsage of job (MB)
+	394396  -  ResidentSetSize of job (KB)
+...
+006 (11067984.099.000) 2023-05-25 19:11:26 Image size of job updated: 868864
+	392  -  MemoryUsage of job (MB)
+	400620  -  ResidentSetSize of job (KB)
+...
+006 (11067984.099.000) 2023-05-25 19:16:26 Image size of job updated: 868864
+	405  -  MemoryUsage of job (MB)
+	413780  -  ResidentSetSize of job (KB)
+...
+006 (11067984.099.000) 2023-05-25 19:21:26 Image size of job updated: 868864
+	424  -  MemoryUsage of job (MB)
+	433456  -  ResidentSetSize of job (KB)
+...
+006 (11067984.099.000) 2023-05-25 20:16:30 Image size of job updated: 868864
+	434  -  MemoryUsage of job (MB)
+	444356  -  ResidentSetSize of job (KB)
+...
+006 (11067984.099.000) 2023-05-25 20:56:38 Image size of job updated: 868864
+	442  -  MemoryUsage of job (MB)
+	452420  -  ResidentSetSize of job (KB)
+...
+006 (11067984.099.000) 2023-05-26 02:07:12 Image size of job updated: 868864
+	446  -  MemoryUsage of job (MB)
+	456632  -  ResidentSetSize of job (KB)
+...
+006 (11067984.099.000) 2023-05-26 09:02:55 Image size of job updated: 868864
+	456  -  MemoryUsage of job (MB)
+	466292  -  ResidentSetSize of job (KB)
+...
+040 (11067984.099.000) 2023-05-26 11:16:36 Started transferring output files
+...
+040 (11067984.099.000) 2023-05-26 11:16:36 Finished transferring output files
+...
+005 (11067984.099.000) 2023-05-26 11:16:36 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:05, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:05, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	20816  -  Run Bytes Sent By Job
+	32917118  -  Run Bytes Received By Job
+	20816  -  Total Bytes Sent By Job
+	32917118  -  Total Bytes Received By Job
+	Partitionable Resources :     Usage  Request Allocated 
+	   Cpus                 :      0.99        1         1 
+	   Disk (KB)            : 290306      524288   1268229 
+	   IoHeavy              :                            0 
+	   Memory (MB)          :    456        2048      2048 
+
+	Job terminated of its own accord at 2023-05-26T16:16:36Z with exit-code 0.
+...

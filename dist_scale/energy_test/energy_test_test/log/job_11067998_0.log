@@ -1,0 +1,54 @@
+035 (11067998.-01.000) 2023-05-25 18:22:28 Cluster submitted from host: <128.104.101.92:9618?addrs=128.104.101.92-9618+[2607-f388-107c-501-a236-9fff-fe3c-caa8]-9618&alias=submit2.chtc.wisc.edu&noUDP&sock=schedd_1879732_618e>
+...
+000 (11067998.000.000) 2023-05-25 18:22:28 Job submitted from host: <128.104.101.92:9618?addrs=128.104.101.92-9618+[2607-f388-107c-501-a236-9fff-fe3c-caa8]-9618&alias=submit2.chtc.wisc.edu&noUDP&sock=schedd_1879732_618e>
+...
+040 (11067998.000.000) 2023-05-25 18:22:41 Started transferring input files
+	Transferring to host: <128.105.69.89:9618?addrs=128.105.69.89-9618+[2607-f388-2200-100-1270-fdff-fe56-41cc]-9618&alias=e4000.chtc.wisc.edu&noUDP&sock=interactive2_1_1929803_8aa4_2679>
+...
+040 (11067998.000.000) 2023-05-25 18:22:42 Finished transferring input files
+...
+001 (11067998.000.000) 2023-05-25 18:22:43 Job executing on host: <128.105.69.89:9618?addrs=128.105.69.89-9618+[2607-f388-2200-100-1270-fdff-fe56-41cc]-9618&alias=e4000.chtc.wisc.edu&noUDP&sock=startd_14062_f0db>
+	SlotName: interactive2_1@e4000.chtc.wisc.edu
+	CondorScratchDir = "/var/lib/condor/execute/slot2/dir_662211"
+	Cpus = 1
+	Disk = 1351677
+	IoHeavy = 0
+	Memory = 1024
+...
+006 (11067998.000.000) 2023-05-25 18:22:47 Image size of job updated: 3720
+	5  -  MemoryUsage of job (MB)
+	4916  -  ResidentSetSize of job (KB)
+...
+006 (11067998.000.000) 2023-05-25 18:22:52 Image size of job updated: 12320
+	5  -  MemoryUsage of job (MB)
+	4916  -  ResidentSetSize of job (KB)
+...
+006 (11067998.000.000) 2023-05-25 18:23:58 Image size of job updated: 12320
+	6  -  MemoryUsage of job (MB)
+	5612  -  ResidentSetSize of job (KB)
+...
+040 (11067998.000.000) 2023-05-25 18:23:58 Started transferring output files
+...
+040 (11067998.000.000) 2023-05-25 18:23:58 Finished transferring output files
+...
+005 (11067998.000.000) 2023-05-25 18:23:58 Job terminated.
+	(1) Normal termination (return value 255)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	8  -  Run Bytes Sent By Job
+	32916064  -  Run Bytes Received By Job
+	8  -  Total Bytes Sent By Job
+	32916064  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :    89951   524288   1351677 
+	   IoHeavy              :                           0 
+	   Memory (MB)          :        6     1024      1024 
+
+	Job terminated of its own accord at 2023-05-25T23:22:47Z with signal 15.
+...
+036 (11067998.-01.000) 2023-05-25 18:27:03 Cluster removed
+	Materialized 2 jobs from -1 items.	Complete
+...
