@@ -1,9 +1,9 @@
 source("objTest_fctns.R")
 require(MASS)
-depth_CPD<-function(distmat,c=0.15,num_permut=500){
+depth_CPD<-function(distmat,c=0.2,num_permut=500){
   n<-nrow(distmat)
   
-  max_stat<-c();Test<-c()
+  max_stat<-c();Test<-list()
   for (j in 0:num_permut){
     #data permutation
     cat(j,"th iteration","\n")
@@ -17,7 +17,7 @@ depth_CPD<-function(distmat,c=0.15,num_permut=500){
       testStat <- getT( distmat = distmat, indices = 1:n, n = cp, m = n-cp, cut_off = 0 )
       test<-cbind(test,testStat)
     }
-    Test<-rbind(Test,test)
+    Test[[j+1]]<-test
     max_stat<-cbind(max_stat,max(test))
     if (j==0){
       max_stat_index<-which.max(test)+ceiling(n*c)

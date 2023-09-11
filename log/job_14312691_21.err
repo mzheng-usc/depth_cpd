@@ -1,0 +1,24 @@
+Installing package into '/var/lib/condor/execute/slot1/dir_4089743/packages'
+(as 'lib' is unspecified)
+trying URL 'https://cloud.r-project.org/src/contrib/usedist_0.4.0.tar.gz'
+Content type 'application/x-gzip' length 31701 bytes (30 KB)
+==================================================
+downloaded 30 KB
+
+* installing *source* package 'usedist' ...
+** package 'usedist' successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (usedist)
+
+The downloaded source packages are in
+	'/tmp/RtmpKgJCPG/downloaded_packages'
+Loading required package: MASS
+Loading required package: usedist
