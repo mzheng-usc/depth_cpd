@@ -1,0 +1,46 @@
+Installing package into '/var/lib/condor/execute/slot1/dir_356729/packages'
+(as 'lib' is unspecified)
+trying URL 'https://cloud.r-project.org/src/contrib/ecp_3.1.5.tar.gz'
+Content type 'application/x-gzip' length 1666105 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+* installing *source* package 'ecp' ...
+** package 'ecp' successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+installing to /var/lib/condor/execute/slot1/dir_356729/packages/00LOCK-ecp/00new/ecp/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (ecp)
+
+The downloaded source packages are in
+	'/tmp/RtmpDkje01/downloaded_packages'
+Loading required package: igraph
+
+Attaching package: 'igraph'
+
+The following objects are masked from 'package:stats':
+
+    decompose, spectrum
+
+The following object is masked from 'package:base':
+
+    union
+
+Loading required package: ecp
+Loading required package: Rcpp
+Loading required package: MASS
+Error in loadNamespace(x) : there is no package called 'inline'
+Calls: source ... loadNamespace -> withRestarts -> withOneRestart -> doWithOneRestart
+Execution halted

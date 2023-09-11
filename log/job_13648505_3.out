@@ -1,0 +1,5 @@
+g++ -std=gnu++14 -I"/var/lib/condor/execute/slot1/dir_1823772/R/lib64/R/include" -DNDEBUG  -I'/var/lib/condor/execute/slot1/dir_1823772/packages/Rcpp/include' -I/usr/local/include   -fpic  -g -O2  -c efast.cpp -o efast.o
+g++ -std=gnu++14 -I"/var/lib/condor/execute/slot1/dir_1823772/R/lib64/R/include" -DNDEBUG  -I'/var/lib/condor/execute/slot1/dir_1823772/packages/Rcpp/include' -I/usr/local/include   -fpic  -g -O2  -c energyChangePoint.cpp -o energyChangePoint.o
+g++ -std=gnu++14 -I"/var/lib/condor/execute/slot1/dir_1823772/R/lib64/R/include" -DNDEBUG  -I'/var/lib/condor/execute/slot1/dir_1823772/packages/Rcpp/include' -I/usr/local/include   -fpic  -g -O2  -c kernelcpa.cpp -o kernelcpa.o
+gcc -I"/var/lib/condor/execute/slot1/dir_1823772/R/lib64/R/include" -DNDEBUG  -I'/var/lib/condor/execute/slot1/dir_1823772/packages/Rcpp/include' -I/usr/local/include   -fpic  -g -O2  -c registerDynamicSymbol.c -o registerDynamicSymbol.o
+g++ -std=gnu++14 -shared -L/usr/local/lib64 -o ecp.so efast.o energyChangePoint.o kernelcpa.o registerDynamicSymbol.o
